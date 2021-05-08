@@ -1,0 +1,51 @@
+:root {
+    --primary-text-color: #212121;
+    --secondary-text-color: #757575;
+    --accent-text-color: #2196F3;
+    --block-color: #2F303A;
+    --white-color: #ffffff;
+    --border-color: #ECECEC;
+    --form-button-accent-color: #188CE8;
+    --grid-item: 1;
+    --animation: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@font-face {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../fonts/raleway-v19-latin_cyrillic-700.woff2") format("woff2"),
+      url("../fonts/raleway-v19-latin_cyrillic-700.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/roboto-v27-latin_cyrillic-regular.woff2") format("woff2"),
+      url("../fonts/roboto-v27-latin_cyrillic-regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    src: url("../fonts/roboto-v27-latin_cyrillic-500.woff2") format("woff2"),
+      url("../fonts/roboto-v27-latin_cyrillic-500.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../fonts/roboto-v27-latin_cyrillic-700.woff2") format("woff2"),
+      url("../fonts/roboto-v27-latin_cyrillic-700.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 900;
+    src: url("../fonts/roboto-v27-latin_cyrillic-900.woff2") format("woff2"),
+      url("../fonts/roboto-v27-latin_cyrillic-900.woff") format("woff");
+}
